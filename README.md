@@ -1,7 +1,15 @@
-## Hi there 👋
+<h1>Hi<br/></h1>
+<h2>👨‍💻 Capstone Project</h2>
+<h3>AgBiz Logic</h3>
+<b>Tools Used:</b>
+
+- AngularJS, Django REST Framework, Node.js, JavaScript, Python, PostgreSQL
+
+The front end is built with JavaScript and AngularJS, and the back end is managed by the Django REST Framework. This stack allows for the use of powerful AngularJS directives in the web application, while using Django and Python provides access to necessary libraries for handling data and interacting with APIs. The project architecture also relies on Node.js to asynchronously interact with the server and generate content based on certain events. Combined, these tools provide granular control over the specifications of the project, and the anticipated user experience. 
+
 
 <!--
-**Eta-Argus/eta-argus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
